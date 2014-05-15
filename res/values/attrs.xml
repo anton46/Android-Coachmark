@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CoachMark">
+        <attr name="cm_backgroundColor" format="color|reference" />
+        <attr name="cm_detailTextColor" format="color|reference" />
+        <attr name="cm_titleTextColor" format="color|reference" />
+        <attr name="cm_buttonBackgroundColor" format="color|reference" />
+        <attr name="cm_buttonForegroundColor" format="color|reference" />
+        <attr name="cm_buttonText" format="string|reference" />
+        <attr name="cm_detailTextAppearance" format="reference" />
+        <attr name="cm_titleTextAppearance" format="reference" />
+        <attr name="cm_showcaseColor" format="color|reference" />
+        <attr name="cm_overlayBackgroundColor" format="color|reference" />
+    </declare-styleable>
+</resources>

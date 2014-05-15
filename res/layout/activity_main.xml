@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button 
+        android:id="@+id/button_1"
+        android:layout_height="50dp"
+        android:layout_width="70dp"
+        android:text="1"/>
+    
+    <Button 
+        android:id="@+id/button_2"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:text="Button 2"/>
+    
+    
+    
+    
+</RelativeLayout>
